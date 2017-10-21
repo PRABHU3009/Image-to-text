@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextOCR1</string>
+    <string name="upload_an_image">Scan an Image</string>
+    <string name="camera">camera</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pdf">PDFActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
